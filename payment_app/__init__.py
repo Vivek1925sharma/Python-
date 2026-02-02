@@ -1,0 +1,1 @@
+"""GenAI payments demo package."""
